@@ -3,4 +3,4 @@
 * This project is basically converting black and white images into colored images
 * In Notebook AIP_project_colorization_by_zhang.ipynb we used there CNN model to colorize the images
 * In Notebook AIp project paper 2 InstColorization.ipynb we used model by second paper to colorize the images
-* colorization and 
+* colorization and InstColorization are folders cloned from respective authors
